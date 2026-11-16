@@ -1,0 +1,2 @@
+# Heterogenenous-Co-Construction-Graph-Neural-Network-for-Financial-Fraud-Detection
+HGCC which transforms a transaction table into a heterogeneous transaction–customer–card–merchant graph, using identifier columns where they exist and heuristic latent groups (Edge-Aware K-means) where they do not. HGCC graphs for the IEEE-CIS $ CCF datasets were evaluated with GraphSAGE, GAT, GRNN $ tabular baselines under a temporal split,
